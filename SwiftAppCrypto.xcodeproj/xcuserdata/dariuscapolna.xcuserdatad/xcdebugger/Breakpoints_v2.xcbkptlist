@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DE08F29F-B5AD-43CB-8614-605E5A40DC53"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7EC59526-BDE9-411D-882B-BED859AC338E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftAppCrypto/Utilities/NetworkingManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "handleURLResponse(output:url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7EC59526-BDE9-411D-882B-BED859AC338E - 6bd01082dfcabdd1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SwiftAppCrypto.NetworkingManager.handleURLResponse(output: (data: Foundation.Data, response: __C.NSURLResponse), url: Foundation.URL) throws -&gt; Foundation.Data"
+                  moduleName = "SwiftAppCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dariuscapolna/Documents/SwiftAppCrypto/SwiftAppCrypto/Utilities/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "544">
+               </Location>
+               <Location
+                  uuid = "7EC59526-BDE9-411D-882B-BED859AC338E - 6bd01082dfcabdd1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SwiftAppCrypto.NetworkingManager.handleURLResponse(output: (data: Foundation.Data, response: __C.NSURLResponse), url: Foundation.URL) throws -&gt; Foundation.Data"
+                  moduleName = "SwiftAppCrypto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dariuscapolna/Documents/SwiftAppCrypto/SwiftAppCrypto/Utilities/NetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "680">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E57D53C9-A461-436F-BAEA-926C236D987B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftAppCrypto/Utilities/NetworkingManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "handleCompletion(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F3896D6-3041-42AA-810E-96260A4259C4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftAppCrypto/Core/DetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "addSubscribers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
